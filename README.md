@@ -18,7 +18,7 @@ Once the application is running, you can access it by navigating to http://local
 
 
 <br>
-Notes:Ensure your MongoDB instance is running and accessible. If you don't have MongoDB installed locally, don't worry! I can provide a cloud-based MongoDB link in private—just reach out! The link is very secure so i will give it in private because of the credentials and options connection.
+**Note:** Ensure your MongoDB instance is running and accessible. If you don't have MongoDB installed locally, don't worry! I can provide a cloud-based MongoDB link in private—just reach out! The link is very secure so i will give it in private because of the credentials and options connection.
 
 <br>
 
