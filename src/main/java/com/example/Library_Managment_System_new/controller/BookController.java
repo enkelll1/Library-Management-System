@@ -21,7 +21,6 @@ public class BookController {
 
     @PostMapping("/store")
     public ResponseEntity<String> storeBook(@Valid @RequestBody StoreBookRequest storeBookRequest) {
-        System.out.println("job");
         String response = bookService.storeBook(storeBookRequest.getIsbn(), storeBookRequest.getTags());
         return ResponseEntity.ok(response);
     }
